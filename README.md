@@ -1,5 +1,7 @@
 # FireFly CLI
 
+[![codecov](https://codecov.io/gh/hyperledger/firefly-cli/branch/main/graph/badge.svg?token=QdEnpMqB1G)](https://codecov.io/gh/hyperledger/firefly-cli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/firefly-cli)](https://goreportcard.com/report/github.com/hyperledger/firefly-cli)
 ![build](https://github.com/hyperledger/firefly-cli/actions/workflows/build.yml/badge.svg?branch=main)
 
 The FireFly CLI can be used to create local [FireFly](https://github.com/hyperledger/firefly) stacks
